@@ -4,7 +4,7 @@ Just some zmq samples translated to hy
 
 # How to install?
 
-It best to run hy and the samples in a virtual environment
+It is best to run hy and the samples in a virtual environment
 
     virtualenv hy
     . ./hy/bin/activate
@@ -51,9 +51,9 @@ your productivity
 
 # Resources
 
-http://hylang.org/ 
-http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
-https://github.com/zeromq/pyzmq/tree/master/examples
-http://zeromq.github.io/pyzmq/
-http://www.pip-installer.org/
-http://virtualenvwrapper.readthedocs.org/en/latest/
+* http://hylang.org/ 
+* http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
+* https://github.com/zeromq/pyzmq/tree/master/examples
+* http://zeromq.github.io/pyzmq/
+* http://www.pip-installer.org/
+* http://virtualenvwrapper.readthedocs.org/en/latest/
